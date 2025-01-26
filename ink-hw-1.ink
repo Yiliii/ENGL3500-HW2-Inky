@@ -49,7 +49,7 @@ You get into an open cockpit and "wing" it.
 === dog_food ===
 
 Really this was the only rational answer. The end.
--> DONE // Added an explicit end to indicate story completion.
+-> END // Added an explicit end to indicate story completion.
 
 === catastrophe ===
 //fixed the syntax by having three "=" for knot
